@@ -3,8 +3,10 @@ This is a cyber face 3D animation website recreated. Inspiration is from cyber h
 
 Steps:
 1. First download all the files.
-2. Then use any choice of code editor to open the HTML, CSS, and JS files.
-3. Now you are all set and ready to go!!
+2. Then download the cyber face image folder in this google drive link: https://drive.google.com/drive/folders/1uw_EYHa1SNr1xBb4JPe3wS_37HeRtX4_?usp=share_link
+3. Move the images into the main folder.
+4. Then use any choice of code editor to open the HTML, CSS, and JS files.
+5. Now you are all set and ready to go!!
 
 Video of Code in Action:
 
